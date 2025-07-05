@@ -60,4 +60,63 @@ approach implemented via embedding layers in a custom Keras model.
 - Returns top 10 movies with highest predicted ratings
 
 
+8. VISUALIZATIONS
+-------------------
+- Histogram of Average Movie Ratings
+- Histogram of Average User Ratings
+- Heatmap of top 20x20 user-movie matrix with movie titles
+
+9. DEPENDENCIES
+-----------------
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- tensorflow
+- tensorflow_datasets
+- scikit-learn
+
+10. HOW TO RUN
+---------------
+1. Ensure all dependencies are installed.
+2. Update the local file path to your `u.data` file in the script.
+3. Run the Python script `movie_recommender.py`.
+4. View training logs, evaluation metrics, recommendations, and graphs.
+
+11. NEXT STEPS
+-----------------
+- Integrate into a web app using Streamlit or Flask
+- Add user input and preferences
+- Include content-based filtering (e.g. genres)
+8. VISUALIZATIONS
+-------------------
+- Histogram of Average Movie Ratings
+- Histogram of Average User Ratings
+- Heatmap of top 20x20 user-movie matrix with movie titles
+
+9. DEPENDENCIES
+-----------------
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- tensorflow
+- tensorflow_datasets
+- scikit-learn
+
+10. HOW TO RUN
+---------------
+1. Ensure all dependencies are installed.
+2. Update the local file path to your `u.data` file in the script.
+3. Run the Python script `movie_recommender.py`.
+4. View training logs, evaluation metrics, recommendations, and graphs.
+
+11. NEXT STEPS
+-----------------
+- Integrate into a web app using Streamlit or Flask
+- Add user input and preferences
+- Include content-based filtering (e.g. genres)
+====================================================
+Developed by: Muhammad Talha Sheraz
+====================================================
 
